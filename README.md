@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anshu Arunav
 - 👀 I’m love coding, chess, karate, swimming and video games!
 - 🌱 I’m currently exploring different types of code.
-- 📚 At the moment, I am a F1 (Grade 7) student at University of Toronto Schools (UTS)
+- 📚 At the moment, I am a F2 (Grade 8) student at University of Toronto Schools (UTS)
 - Competitive VEX Robotics
 - 19109M VEX
 - Toronto, Ontario
