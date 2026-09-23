@@ -41,8 +41,8 @@ Currently learning: **CAD**
 ## 📊 Live stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnshuPlayz17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuPlayz17&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+  <img height="165" src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -50,14 +50,14 @@ Currently learning: **CAD**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshuPlayz17&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
+  <img src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Contribution graph"/>
 </p>
 
-<!-- Snake eating contributions (needs the workflow file in .github/workflows/snake.yml) -->
+<!-- Snake eating contributions (made by .github/workflows/snake.yml) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/output/github-snake.svg" alt="Snake animation"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/output/github-snake-dark.svg?v=2"/>
+    <img src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/output/github-snake.svg?v=2" alt="Snake animation"/>
   </picture>
 </p>
 
