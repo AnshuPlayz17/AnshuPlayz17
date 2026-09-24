@@ -1,1 +1,50 @@
-<p align="center"> <a href="https://anshuplayz17.github.io/Personal-Web/"><img src="assets/header.svg" width="100%" alt="Anshu: I build robots, apps, and hardware hacks"/></a> </p> <img src="assets/label-robotics.svg" width="100%" alt="Robotics"/> <p align="center"> <img src="assets/robotics.svg" width="100%" alt="FRC 11753 SHFT, rookie season. VEX V5 19109M, qualified for VEX Worlds 2026."/> </p> <img src="assets/label-projects.svg" width="100%" alt="Projects"/> <p align="center"> <a href="https://github.com/ryannzander/Tappy"><img src="assets/tappy.svg" width="49%" alt="Tappy"/></a> <img src="assets/skysaver.svg" width="49%" alt="SkySaver"/> </p> <p align="center"> <img src="assets/calenda.svg" width="49%" alt="Calenda"/> <a href="https://github.com/AnshuPlayz17/NeoPark"><img src="assets/neopark.svg" width="49%" alt="NeoPark"/></a> </p> <img src="assets/label-tools.svg" width="100%" alt="Tools"/> <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,ts,html,css,arduino,nextjs,git,vscode&theme=dark" alt="C++, TypeScript, HTML, CSS, Arduino, Next.js, Git, VS Code"/> </p> <p align="center">Currently learning CAD.</p> <img src="assets/label-stats.svg" width="100%" alt="Live stats"/> <p align="center"> <img height="170" src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/main/profile-summary-card-output/blue_green/3-stats.svg" alt="GitHub stats"/> <img height="170" src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/main/profile-summary-card-output/blue_green/2-most-commit-language.svg" alt="Top languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=AnshuPlayz17&hide_border=true&border_radius=16&background=0E3B2C&ring=D4A24C&fire=FFB23D&stroke=8A6A33&currStreakNum=EDEFE6&sideNums=EDEFE6&currStreakLabel=D4A24C&sideLabels=EDEFE6&dates=D4A24C" alt="GitHub streak"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/main/profile-summary-card-output/blue_green/0-profile-details.svg" width="100%" alt="Contribution graph"/> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/output/github-snake-dark.svg?v=3"/> <img src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/output/github-snake.svg?v=3" alt="Snake eating my contributions"/> </picture> </p> <img src="assets/label-offline.svg" width="100%" alt="Offline"/> <p align="center">Chess, karate, swimming, and a few too many video games.</p>
+<p align="center">
+  <a href="https://anshuplayz17.github.io/Personal-Web/"><img src="header.svg" width="100%" alt="Anshu: I build robots, apps, and hardware hacks"/></a>
+</p>
+
+<img src="label-robotics.svg" width="100%" alt="Robotics"/>
+
+<p align="center">
+  <img src="robotics.svg" width="100%" alt="FRC 11753 SHFT, rookie season. VEX V5 19109M, qualified for VEX Worlds 2026."/>
+</p>
+
+<img src="label-projects.svg" width="100%" alt="Projects"/>
+
+<p align="center">
+  <a href="https://github.com/ryannzander/Tappy"><img src="tappy.svg" width="49%" alt="Tappy"/></a>
+  <img src="skysaver.svg" width="49%" alt="SkySaver"/>
+</p>
+<p align="center">
+  <img src="calenda.svg" width="49%" alt="Calenda"/>
+  <a href="https://github.com/AnshuPlayz17/NeoPark"><img src="neopark.svg" width="49%" alt="NeoPark"/></a>
+</p>
+
+<img src="label-tools.svg" width="100%" alt="Tools"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,ts,html,css,arduino,nextjs,git,vscode&theme=dark" alt="C++, TypeScript, HTML, CSS, Arduino, Next.js, Git, VS Code"/>
+</p>
+<p align="center">Currently learning CAD.</p>
+
+<img src="label-stats.svg" width="100%" alt="Live stats"/>
+
+<p align="center">
+  <img height="170" src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/main/profile-summary-card-output/blue_green/3-stats.svg" alt="GitHub stats"/>
+  <img height="170" src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/main/profile-summary-card-output/blue_green/2-most-commit-language.svg" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnshuPlayz17&hide_border=true&border_radius=16&background=0E3B2C&ring=D4A24C&fire=FFB23D&stroke=8A6A33&currStreakNum=EDEFE6&sideNums=EDEFE6&currStreakLabel=D4A24C&sideLabels=EDEFE6&dates=D4A24C" alt="GitHub streak"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/main/profile-summary-card-output/blue_green/0-profile-details.svg" width="100%" alt="Contribution graph"/>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/output/github-snake-dark.svg?v=3"/>
+    <img src="https://raw.githubusercontent.com/AnshuPlayz17/AnshuPlayz17/output/github-snake.svg?v=3" alt="Snake eating my contributions"/>
+  </picture>
+</p>
+
+<img src="label-offline.svg" width="100%" alt="Offline"/>
+
+<p align="center">Chess, karate, swimming, and a few too many video games.</p>
